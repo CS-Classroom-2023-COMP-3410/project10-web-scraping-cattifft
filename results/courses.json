@@ -1,0 +1,82 @@
+{
+    "courses": [
+        {
+            "course": "COMP-3372",
+            "title": "Advanced Algorithms ",
+            "credits": "4 ",
+            "description": "Advanced techniques for the design and analysis of algorithms and data structures; amortized complexity, self-adjusting data structures; randomized , online, and string algorithms; NP-completeness, approximation and exact exponential algorithms; flow networks."
+        },
+        {
+            "course": "COMP-3400",
+            "title": "Advanced Unix Tools ",
+            "credits": "4 ",
+            "description": "Design principles for tools used in a UNIX environment. Students gain experience building tools by studying the public domain versions of standard UNIX tools and tool- building facilities.  Prerequisites: COMP 2400 and knowledge of C and csh (or another shell), and familiarity with UNIX."
+        },
+        {
+            "course": "COMP-3441",
+            "title": "Introduction to Probability and Statistics for Data Science ",
+            "credits": "4 ",
+            "description": "The course introduces fundamentals of probability for data science. Students survey data visualization methods and summary statistics, develop models for data, and apply statistical techniques to assess the validity of the models. The techniques will include parametric and nonparametric methods for parameter estimation and hypothesis testing for a single sample mean and two sample means, for proportions, and for simple linear regression. Students will acquire sound theoretical footing for the methods where practical, and will apply them to real-world data, primarily using R."
+        },
+        {
+            "course": "COMP-3455",
+            "title": "Shell Scripting and System Tools ",
+            "credits": "4 ",
+            "description": "This course covers navigating and utilizing tools in a UNIX environment, including use of common command line utilities, Bash and Python shell scripting, source control via Git, pipes and I/O redirection, networking in Python and OS multi-processing/multi-threading. More emphasis will be placed on using these tools than on how those tools work. Students should have experience with Python prior to taking this course."
+        },
+        {
+            "course": "COMP-3681",
+            "title": "Networking for Games ",
+            "credits": "4 ",
+            "description": "Implementing the networking code for multiplayer games is a complex task that requires an understanding of performance, security, game design, and advanced programming concepts. In this course, students are introduced to the networking stack and how this is connected to the Internet, learn how to write protocols for games, and implement several large games using a game engine that demonstrate the kind of networking and protocols required by different genres of games. In addition, tools are introduced that help understand and debug networking code, simplify the creation of protocols, and make the development of networking code easier."
+        },
+        {
+            "course": "COMP-3701",
+            "title": "Topics in Computer Graphics ",
+            "credits": "4 ",
+            "description": "No description available."
+        },
+        {
+            "course": "COMP-3702",
+            "title": "Topics in Database ",
+            "credits": "4 ",
+            "description": "No description available."
+        },
+        {
+            "course": "COMP-3703",
+            "title": "Topics-Artificial Intelligence ",
+            "credits": "4 ",
+            "description": "No description available."
+        },
+        {
+            "course": "COMP-3704",
+            "title": "Advanced Topics: Systems ",
+            "credits": "4 ",
+            "description": "No description available."
+        },
+        {
+            "course": "COMP-3705",
+            "title": "Topics in Computer Science ",
+            "credits": "1-4 ",
+            "description": "No description available."
+        },
+        {
+            "course": "COMP-3732",
+            "title": "Human-Centered Data Security and Privacy ",
+            "credits": "4 ",
+            "description": "With an increasing digital presence, it is critical to understand users' needs and requirements in using technological equipment to secure interactions and adhere to privacy perceptions. Thus, it is essential to analyze the cognitive, social, organizational, commercial, and cultural factors in mind. This course will provide a socio-technical approach for analyzing critical user interaction with devices encountered in everyday life, including web, mobiles, and wearables. This course will help students develop an understanding of technological interactions from the perspectives of multiple stakeholders such as users, developers, system administrators, and others and build tools to protect user data."
+        },
+        {
+            "course": "COMP-3991",
+            "title": "Independent Study ",
+            "credits": "1-10 ",
+            "description": "Cannot be arranged for any course that appears in the regular course schedule for that particular year."
+        },
+        {
+            "course": "COMP-3995",
+            "title": "Independent Research ",
+            "credits": "1-10 ",
+            "description": "No description available."
+        }
+    ]
+}
